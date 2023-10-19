@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himani26
-- 👀 I’m interested in data, machine learning, good food, books and song recoommendations
+- 👀 I’m interested in data, system designs , machine learning, good food, books and song recoommendations
 - 🌱 I’m currently reading The Brain by Dave Eagleman
 - 💞️ I’m looking to collaborate on all kinds of data/ Ml problems
 - 📫 How to reach me drop me a mail at himani78384030@gmail.com
